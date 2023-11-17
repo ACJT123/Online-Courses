@@ -8,7 +8,9 @@ export default function Index() {
           "instructor": "John Doe",
           "duration": "6 weeks",
           "price": "$99",
+          "discounted_price": "$59",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR1YJH1BCQnWJBCpd3TBW53q_S64dc-gA&usqp=CAU",
+          "level": "beginner",
           "rating": 4.5,
           "lessons": [
             { "title": "Introduction to JavaScript", "duration": 30 },
@@ -24,6 +26,7 @@ export default function Index() {
           "price": "$120",
           "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/3771918/settings_images/Btsvy53TYWWNbk7x4FAj_file.jpg",
           "rating": 4.2,
+          "level": "intermediate",
           "lessons": [
             { "title": "Python Basics", "duration": 40 },
             { "title": "Conditional Statements", "duration": 50 },
@@ -38,6 +41,7 @@ export default function Index() {
           "price": "$199",
           "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/3771918/settings_images/UCHtMLk7Te25OdY9ps7f_file.jpg",
           "rating": 4.7,
+          "level": "beginner",
           "lessons": [
             { "title": "HTML & CSS Fundamentals", "duration": 60 },
             { "title": "JavaScript Essentials", "duration": 70 },
@@ -50,8 +54,10 @@ export default function Index() {
           "instructor": "Ella Adams",
           "duration": "12 weeks",
           "price": "$150",
+          "discounted_price": "$109",
           "image": "https://elysiumacademy.org/wp-content/uploads/2018/12/REACT-JS.jpg",
           "rating": 4.9,
+          "level": "expert",
           "lessons": [
             { "title": "Data Analysis with Pandas", "duration": 65 },
             { "title": "Machine Learning Basics", "duration": 75 },
@@ -66,6 +72,7 @@ export default function Index() {
           "price": "$180",
           "image": "https://trisectinstitute.com/wp-content/uploads/2021/12/best-react-js-training-institute-1.png",
           "rating": 4.6,
+          "level": "beginner",
           "lessons": [
             { "title": "App Design Principles", "duration": 50 },
             { "title": "iOS Development", "duration": 70 },
@@ -80,6 +87,7 @@ export default function Index() {
           "price": "$149",
           "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/3771918/settings_images/Btsvy53TYWWNbk7x4FAj_file.jpg",
           "rating": 4.4,
+          "level": "expert",
           "lessons": [
             { "title": "SEO and SEM Strategies", "duration": 45 },
             { "title": "Social Media Marketing", "duration": 55 },
@@ -92,8 +100,10 @@ export default function Index() {
           "instructor": "William Green",
           "duration": "8 weeks",
           "price": "$199",
+          "discounted_price": "$149",
           "image": "https://elysiumacademy.org/wp-content/uploads/2018/12/REACT-JS.jpg",
           "rating": 4.8,
+          "level": "intermediate",
           "lessons": [
             { "title": "Introduction to Cybersecurity", "duration": 55 },
             { "title": "Network Security Fundamentals", "duration": 70 },
@@ -108,6 +118,7 @@ export default function Index() {
           "price": "$129",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0qR1YJH1BCQnWJBCpd3TBW53q_S64dc-gA&usqp=CAU",
           "rating": 4.3,
+          "level": "beginner",
           "lessons": [
             { "title": "Fundamentals of Design", "duration": 50 },
             { "title": "Typography and Layout", "duration": 65 },
@@ -122,6 +133,7 @@ export default function Index() {
           "price": "$169",
           "image": "https://fullonapp.com/wp-content/uploads/2022/02/121.jpg",
           "rating": 4.7,
+          "level": "beginner",
           "lessons": [
             { "title": "Data-driven Decision Making", "duration": 60 },
             { "title": "Statistical Analysis Techniques", "duration": 70 },
@@ -134,8 +146,10 @@ export default function Index() {
           "instructor": "Emma Turner",
           "duration": "8 weeks",
           "price": "$119",
+          "discounted_price": "$109",
           "image": "https://trisectinstitute.com/wp-content/uploads/2021/12/best-react-js-training-institute-1.png",
           "rating": 4.8,
+          "level": "expert",
           "lessons": [
             { "title": "Camera Settings and Exposure", "duration": 55 },
             { "title": "Composition and Lighting", "duration": 60 },
